@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KAS</string>
+    <string name="textview">&#128526; Kumarswamy Hiremath : \n
+        \t\t\t\t\t\t <a href="https://www.linkedin.com/in/kumarswamykh/">Linkedin</a> \n
+        \t\t\t\t\t\t<a href=" ">Instagram</a>\n\n
+    &#128169; Sachin LM : \n
+    \t\t\t\t\t\t<a href="https://www.instagram.com/asachin_mengaji_24/">Instagram</a>\n\n
+    &#128055; Amulya Deshmanya : \n
+    \t\t\t\t\t\t<a href="https://www.instagram.com/amulya_deshmanya/">Instagram</a>\n
+    \t\t\t\t\t\t<a href="https://www.instagram.com/amulya_deshmanya/">Instagram Business</a>\n\n
+
+    &#129303; Veena : \n
+    \t\t\t\t\t\t<a href="https://www.instagram.com/_veena.ramesh/">Instagram</a>\n</string>
+    <string name="textview1"> <i> <b>-Kumarswamy</b> </i>\n\n
+        Professional Android Developer, Web Developer, Freelancer and Video Gamer.\n\n
+        Currently working as an <b>Analyst/Software Engineer in Capgemini</b>
+        Build and deployed projects based on web and Android. \n\n
+        Social Media :\n
+        \t\t\t\t\t\t <a href="https://www.linkedin.com/in/kumarswamykh/">-Linkedin</a> \n
+        \t\t\t\t\t\t<a href="https://www.instagram.com/kumarswamykh20/">-Instagram</a>\n
+        \t\t\t\t\t\t <a href="https://github.com/kumarswamykh">-GitHub</a> \n\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<b>"THANK YOU"</b>
+ </string>
+</resources>
